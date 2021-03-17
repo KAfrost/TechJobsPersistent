@@ -22,5 +22,7 @@ namespace TechJobsPersistent
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        // test note for test push
     }
 }
